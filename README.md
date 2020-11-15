@@ -9,11 +9,10 @@ Include table.js, jquery-serialize.js file inside page
 
 ## Usage
 Fill table attributes
-Markup : * function
-        * model
-        * page-number
-        * item-per-page
-        * override-function
+Markup : * Bullet list
+             * Nested bullet
+                 * Sub-nested bullet etc
+         * Bullet list item 2
 
 
 Trigger to load data (you can trigger it after updating table content)
