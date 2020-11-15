@@ -1,0 +1,358 @@
+[15-Nov-2020 23:34:45 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:39:45 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:41:16 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:41:48 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:42:21 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:42:49 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:43:03 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:45:38 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:46:12 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:46:38 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:47:48 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:48:37 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:56:28 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:05 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:06 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:06 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:12 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:12 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:12 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:46 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:46 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:46 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:59 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:59 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[15-Nov-2020 23:59:59 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:00:32 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:00:32 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:00:32 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:00:33 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:00:33 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:00:33 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:00:54 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:00:54 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:00:54 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:01:25 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:01:25 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:01:25 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:01:44 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:01:44 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:01:44 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:02:21 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:02:21 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'demo.js' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:02:21 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:02:59 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/libs/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/libs/App.php on line 25
+[16-Nov-2020 00:09:20 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:09:23 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:10:30 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:12:05 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:13:48 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:15:23 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:16:37 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:18:31 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:19:50 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:20:02 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:20:23 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:20:23 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:22:21 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'user' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:22:21 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:31:00 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:31:13 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:32:30 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'Config' not found in /home/brosoftc/broozkan.com/routes/Model.php:15
+Stack trace:
+#0 /home/brosoftc/broozkan.com/controllers/user.php(52): Model->__construct()
+#1 /home/brosoftc/broozkan.com/routes/App.php(30): User->userList()
+#2 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#3 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/Model.php on line 15
+[16-Nov-2020 00:32:30 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:33:04 Europe/Minsk] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/brosoftc/broozkan.com/config/config.php on line 24
+[16-Nov-2020 00:33:04 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:33:20 Europe/Minsk] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/brosoftc/broozkan.com/config/config.php on line 24
+[16-Nov-2020 00:33:20 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:34:03 Europe/Minsk] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/brosoftc/broozkan.com/config/config.php on line 24
+[16-Nov-2020 00:34:03 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:34:21 Europe/Minsk] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/brosoftc/broozkan.com/config/config.php on line 24
+[16-Nov-2020 00:34:21 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:34:48 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/brosoftc/broozkan.com/controllers/user.php:57
+Stack trace:
+#0 /home/brosoftc/broozkan.com/routes/App.php(30): User->userList()
+#1 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#2 {main}
+  thrown in /home/brosoftc/broozkan.com/controllers/user.php on line 57
+[16-Nov-2020 00:34:48 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
+[16-Nov-2020 00:35:35 Europe/Minsk] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/brosoftc/broozkan.com/controllers/user.php:57
+Stack trace:
+#0 /home/brosoftc/broozkan.com/routes/App.php(30): User->userList()
+#1 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#2 {main}
+  thrown in /home/brosoftc/broozkan.com/controllers/user.php on line 57
+[16-Nov-2020 00:35:35 Europe/Minsk] PHP Fatal error:  Uncaught Error: Class 'favicon.ico' not found in /home/brosoftc/broozkan.com/routes/App.php:25
+Stack trace:
+#0 /home/brosoftc/broozkan.com/index.php(7): App->__construct()
+#1 {main}
+  thrown in /home/brosoftc/broozkan.com/routes/App.php on line 25
